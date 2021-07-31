@@ -1,0 +1,79 @@
+name: Idea for Poland 🇵🇱 (pl)
+description: Jeżeli nie znasz języka angielskiego skorzystaj z tego formularza, aby przesłać swój pomysł na usprawnienie Polski w języku  polskim.
+#title: "[idea]: "
+labels: [Poland, Polish]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Dziękuję za czas poświęcony na wypełenie tego furmularza!
+
+        > Zanim zgłosisz swój nowy pomysł upewnij się czy ktoś już tego wcześniej nie zrobił. Listę wszystkich pomysłów znajdziesz [tutaj](https://github.com/improvecountry/ideas/issues).
+
+  - type: textarea
+    id: problem-description
+    attributes:
+      label: Opis problemu
+      description: Opisz czego dotyczy problem.
+      placeholder: Coś nie działa tak jak powinno? Rozwiązanie jakiegoś problemu w ogóle nie istnieje? Opisz to tutaj.
+    validations:
+      required: true
+  - type: textarea
+    id: solution-proposal
+    attributes:
+      label: Propozycja rozwiązania
+      description: Opisz swój pomysł na rozwiązanie zgłoszonego problemu. Jeżeli posiadasz jakieś rysunki lub mockupy możesz je załączyć tutaj. 
+      placeholder: Przykładowym rozwiązaniem dla opisanego problemu może być...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternative-solutions
+    attributes:
+      label: Alternatywne rozwiązania
+      description: Podaj przykłady alternatywnych lub tymczasowych rozwiązań, jeżeli istnieją. 
+      placeholder: Oczekując na finalne rozwiązanie dobrą alternatywą lub tymczasowym rozwiązaniem dla opisanego problemu może być...
+    validations:
+      required: false
+
+  - type: textarea
+    id: example-solutions
+    attributes:
+      label: Przykładowe rozwiązania
+      description: Jeżeli wiesz o rozwiązaniach, które już teraz istnieją i spełniają swoją rolę w innych miastach lub krajach wymień je tutaj.
+      placeholder: |
+        1. 
+        2. 
+        3. 
+        ...
+    validations:
+      required: false
+
+  - type: dropdown
+    id: consent
+    attributes:
+      label: Zgoda
+      description: Czy chcesz, aby na Liście Ideatorów umieszczono nazwę Twojego konta w serwisie GitHub oraz linku do Twojego profilu w serwisie GitHub, Twoje imię i nazwisko przez Implementatora? Zaznacz odpowiednie opcje.
+      multiple: true
+      options:
+        - Wyrażam zgodę na umieszczenie nazwy oraz linku do mojego profilu w serwisie GitHub na Liście Ideatorów.
+        - Wyrażam zgodę na umieszczenie mojego imienia i nazwiska na Liście Ideatorów.
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Regulamin
+      description: Wysyłając swój pomysł zgadzasz się na przestrzeganie [Regulaminu Improve Country (język polski)](https://github.com/improvecountry/ideas/wiki/regulamin), [Regulations of Improve Country (English)](https://github.com/improvecountry/ideas/wiki/regulations)
+      options:
+        - label: Zgadzam się na przestrzeganie Regulaminu Improve Country.
+          required: true
+
+  - type: markdown
+    attributes:
+      value: "### Etykiety (en. Labels)"
+  - type: markdown
+    attributes:
+      value: |
+        Kliknij w ⚙️ po prawej stronie sekcji **Labels** (pl. Etykiety) umieszczonej poniżej lub po prawej stronie tego formularza i przypisz jedną lub więcej etykiet do Twojego pomysłu. W przypadku gdy nie znajdziesz etykiety odpowiedniej dla Twojego pomysłu wybierz etykitę `NO CATEGORY`.
+        
+        > Etykiety `Poland` oraz `Polish` są domyślnie przypisanymi etykietami. Pozostaw je przypisane.

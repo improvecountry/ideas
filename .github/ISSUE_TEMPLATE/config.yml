@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Improve Country - discussions
+    url: https://github.com/improvecountry/ideas/discussions
+    about: Please ask and answer questions here.
+  - name: Improve Country - wiki
+    url: https://github.com/improvecountry/ideas/wiki
+    about: Read more about Improve Country here.
+  - name: Improve Country - regulations (en)
+    url: https://github.com/improvecountry/ideas/wiki/regulations
+    about: Read Regulations of Improve Country in English here.
+  - name: Improve Country - regulamin (pl)
+    url: https://github.com/improvecountry/ideas/wiki/regulamin
+    about: Przeczytaj Regulamin Improve Country w języku polskim tutaj.

@@ -1,0 +1,79 @@
+name: Idea for Poland 🇵🇱 (en)
+description: If you know English, use this form to send your idea to improve Poland in English.
+#title: "[idea]: "
+labels: [Poland, English]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this form!
+
+        > Before you report a new idea, make sure that someone hasn't done it before.  You can find a list of all ideas [here](https://github.com/improvecountry/ideas/issues).
+
+  - type: textarea
+    id: problem-description
+    attributes:
+      label: Problem description
+      description: Give an overall summary of the problem.
+      placeholder: Something is not working as it should? There is no solution at all for something? Describe it here.
+    validations:
+      required: true
+  - type: textarea
+    id: solution-proposal
+    attributes:
+      label: Solution proposal
+      description: Give the description of your idea for the problem solution. If you have any drawings or mock-ups you can include them here. 
+      placeholder: An example solution for described problem could be...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternative-solutions
+    attributes:
+      label: Alternative solutions
+      description: Give examples of alternative solutions or workarounds, if exist. 
+      placeholder: Awaiting final implementation good alternative or workaround for described problem could be...
+    validations:
+      required: false
+
+  - type: textarea
+    id: example-solutions
+    attributes:
+      label: Example solutions
+      description: If you are familiar with solutions which already exist and fulfill their role in other cities or countries list them below.
+      placeholder: |
+        1. 
+        2. 
+        3. 
+        ...
+    validations:
+      required: false
+
+  - type: dropdown
+    id: consent
+    attributes:
+      label: Consent
+      description: Do you want to list on the List of Ideators your GitHub username and link to GitHub profile, name and surname by Implementer? Mark appropriate option/-s.
+      multiple: true
+      options:
+        - I'm consent to list my GitHub username and link to my GitHub profile on the List of Ideators.
+        - I'm consent to list my name and surname on the List of Ideators.
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Regulations
+      description: By submitting this issue, you agree to follow [Regulations of Improve Country (English)](https://github.com/improvecountry/ideas/wiki/regulations), [Regulations of Improve Country (Polish)](https://github.com/improvecountry/ideas/wiki/regulamin)
+      options:
+        - label: I agree to follow Regulations of Improve Country
+          required: true
+
+  - type: markdown
+    attributes:
+      value: "## Labels"
+  - type: markdown
+    attributes:
+      value: |
+        Click on ⚙️ on the right side of **Labels** section below/on the right and try to assign one or more labels to your idea. In case there is no label suitable for your idea choose `NO CATEGORY`.
+        
+        > `Poland` and `English` labels are preselected labels. Leave them marked.
