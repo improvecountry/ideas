@@ -2,13 +2,13 @@ blank_issues_enabled: false
 contact_links:
   - name: Improve Country - Introduction (en)
     url: https://github.com/improvecountry/ideas/wiki/introduction#introduction
-    about: Read Introduction to Improve Country.
+    about: Read Introduction to Improve Country in English.
   - name: Improve Country - Regulations (en)
     url: https://github.com/improvecountry/ideas/wiki/regulations
     about: Read Regulations of Improve Country in English.
   - name: Improve Country - Wstęp (pl)
     url: https://github.com/improvecountry/ideas/wiki/Introduction#wstęp
-    about: Przeczytaj Wstęp do Improve Country.
+    about: Przeczytaj Wstęp do Improve Country w języku polskim.
   - name: Improve Country - Regulamin (pl)
     url: https://github.com/improvecountry/ideas/wiki/regulamin
     about: Przeczytaj Regulamin Improve Country w języku polskim.
