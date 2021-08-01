@@ -53,11 +53,11 @@ body:
     id: consent
     attributes:
       label: Zgoda
-      description: Czy chcesz, aby na Liście Ideatorów umieszczono nazwę Twojego konta w serwisie GitHub oraz linku do Twojego profilu w serwisie GitHub, Twoje imię i nazwisko przez Implementatora? Zaznacz odpowiednie opcje.
+      description: Czy chcesz, aby na Liście Pomysłodawców umieszczono nazwę Twojego konta w serwisie GitHub oraz linku do Twojego profilu w serwisie GitHub, Twoje imię i nazwisko przez Realizatora? Zaznacz odpowiednie opcje.
       multiple: true
       options:
-        - Wyrażam zgodę na umieszczenie nazwy oraz linku do mojego profilu w serwisie GitHub na Liście Ideatorów.
-        - Wyrażam zgodę na umieszczenie mojego imienia i nazwiska na Liście Ideatorów.
+        - Wyrażam zgodę na umieszczenie nazwy oraz linku do mojego profilu w serwisie GitHub na Liście Pomysłodawców.
+        - Wyrażam zgodę na umieszczenie mojego imienia i nazwiska na Liście Pomysłodawców.
 
   - type: checkboxes
     id: terms
