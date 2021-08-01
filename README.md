@@ -4,7 +4,7 @@
 
 > Place to gather, generate and discuss on ideas to improve ANY country.
 
-[**Introduction**](https://github.com/improvecountry/ideas/wiki/introduction) - go to Wiki and read Introduction to *Improve Country*.
+[**Introduction**](https://github.com/improvecountry/ideas/wiki/Introduction#introduction) - go to Wiki and read Introduction to *Improve Country*.
 
 [**Regulations**](https://github.com/improvecountry/ideas/wiki/regulations) - go to Wiki, read and follow Regulations of *Improve Country*. 
 
@@ -23,7 +23,7 @@
 
 > Miejsce do gromadzenia, generowania i omawiania pomysłów na ulepszenie KAŻDEGO kraju.
 
-[**Wstęp**](https://github.com/improvecountry/ideas/wiki/introduction) - przejdź do Wiki i przeczytaj Wstęp do *Improve Country*.
+[**Wstęp**](https://github.com/improvecountry/ideas/wiki/introduction#wstęp) - przejdź do Wiki i przeczytaj Wstęp do *Improve Country*.
 
 [**Regulamin**](https://github.com/improvecountry/ideas/wiki/regulamin) - przejdź do Wiki, przeczytaj i przestrzegaj Regulamin *Improve Country*. 
 
