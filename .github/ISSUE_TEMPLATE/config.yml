@@ -1,17 +1,17 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Improve Country - Discussions
-    url: https://github.com/improvecountry/ideas/discussions
-    about: Please ask and answer questions here.
   - name: Improve Country - Introduction (en)
     url: https://github.com/improvecountry/ideas/wiki/introduction#introduction
     about: Read Introduction to Improve Country.
-  - name: Improve Country - Wstęp (pl)
-    url: https://github.com/improvecountry/ideas/wiki/Introduction#wstęp
-    about: Przeczytaj Wstęp do Improve Country.
   - name: Improve Country - Regulations (en)
     url: https://github.com/improvecountry/ideas/wiki/regulations
     about: Read Regulations of Improve Country in English.
+  - name: Improve Country - Wstęp (pl)
+    url: https://github.com/improvecountry/ideas/wiki/Introduction#wstęp
+    about: Przeczytaj Wstęp do Improve Country.
   - name: Improve Country - Regulamin (pl)
     url: https://github.com/improvecountry/ideas/wiki/regulamin
     about: Przeczytaj Regulamin Improve Country w języku polskim.
+  - name: Improve Country - Discussions
+    url: https://github.com/improvecountry/ideas/discussions
+    about: Please ask and answer questions here.
