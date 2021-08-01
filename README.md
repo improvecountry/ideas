@@ -16,7 +16,7 @@
   - **Idea for Poland 🇵🇱 (en)** - (`if you know English`) use this form to send your idea to improve Poland in English.
   - **Idea for Poland 🇵🇱 (pl)** - (`only if you don't know English`) use this form to send your idea to improve Poland in Polish.
 
-**Note:** you need to be registered on GitHub to submit new issue.
+**Note:** You need to sign up for a free GitHub account to submit new issue.
 
 ---
 ## Polish
@@ -35,6 +35,6 @@
   - **Idea for Poland 🇵🇱 (en)** - (`jeżeli znasz język angielski`), skorzystaj z tego formularza, aby przesłać swój pomysł na usprawnienie Polski w języku angielskim.
   - **Idea for Poland 🇵🇱 (pl)** - (`tylko jeżeli nie znasz języka angielskiego`) skorzystaj z tego formularza, aby przesłać swój pomysł na usprawnienie Polski w języku polskim.
 
-**Informacja:** musisz być zarejestrowany w GitHub, aby dodać nowe zgłoszenie.
+**Informacja:** Musisz założyć darmowe konto w GitHub, aby dodać nowe zgłoszenie.
 
 ---
