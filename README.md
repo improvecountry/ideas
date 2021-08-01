@@ -38,3 +38,4 @@
 **Informacja:** Musisz założyć darmowe konto w GitHub, aby dodać nowe zgłoszenie.
 
 ---
+Logo based on [jigsaw icon](https://www.flaticon.com/free-icon/jigsaw_993686) created by [monkik](https://www.flaticon.com/authors/monkik).
