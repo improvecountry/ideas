@@ -2,7 +2,7 @@
 
 ## English
 
-> Place to gather, generate and discuss on ideas to improve ANY country.
+> Place to gather, generate and discuss ideas to improve YOUR country.
 
 [**Introduction**](https://github.com/improvecountry/ideas/wiki/Introduction#introduction) - go to Wiki and read Introduction to *Improve Country*.
 
@@ -21,7 +21,7 @@
 ---
 ## Polish
 
-> Miejsce do gromadzenia, generowania i omawiania pomysłów na ulepszenie KAŻDEGO kraju.
+> Miejsce do gromadzenia, generowania i omawiania pomysłów na ulepszenie TWOJEGO kraju.
 
 [**Wstęp**](https://github.com/improvecountry/ideas/wiki/introduction#wstęp) - przejdź do Wiki i przeczytaj Wstęp do *Improve Country*.
 
