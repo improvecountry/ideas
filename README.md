@@ -16,7 +16,7 @@
   - **Idea for Poland 🇵🇱 (en)** - (`if you know English`) use this form to send your idea to improve Poland in English.
   - **Idea for Poland 🇵🇱 (pl)** - (`only if you don't know English`) use this form to send your idea to improve Poland in Polish.
 
-**Note:** You need to sign up for a free GitHub account to submit new issue.
+**Note:** You need to sign up for a free GitHub account to submit new issue and [join Improve Country](https://github.com/improvecountry/ideas/discussions/4) if you want to have an option to assign Labels to your issue.
 
 ---
 ## Polish
@@ -35,7 +35,7 @@
   - **Idea for Poland 🇵🇱 (en)** - (`jeżeli znasz język angielski`), skorzystaj z tego formularza, aby przesłać swój pomysł na usprawnienie Polski w języku angielskim.
   - **Idea for Poland 🇵🇱 (pl)** - (`tylko jeżeli nie znasz języka angielskiego`) skorzystaj z tego formularza, aby przesłać swój pomysł na usprawnienie Polski w języku polskim.
 
-**Informacja:** Musisz założyć darmowe konto w GitHub, aby dodać nowe zgłoszenie.
+**Informacja:** Musisz założyć darmowe konto w GitHub, aby dodać nowe zagadnienie oraz [dołączyć do Improve Country](https://github.com/improvecountry/ideas/discussions/4), aby mieć możliwość przypisywania etykiet do swoich zagadnień.
 
 ---
 Logo based on [jigsaw icon](https://www.flaticon.com/free-icon/jigsaw_993686) created by [monkik](https://www.flaticon.com/authors/monkik).
