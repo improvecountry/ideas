@@ -22,7 +22,7 @@ body:
     id: solution-proposal
     attributes:
       label: Solution proposal
-      description: Give the description of your idea for the problem solution. If you have any drawings or mock-ups you can include them here. 
+      description: Give the description of your idea for the problem solution. If you have any drawings or mock-ups you can include them here. 
       placeholder: An example solution for described problem could be...
     validations:
       required: true
@@ -31,7 +31,7 @@ body:
     id: alternative-solutions
     attributes:
       label: Alternative solutions
-      description: Give examples of alternative solutions or workarounds, if exist. 
+      description: Give examples of alternative solutions or workarounds, if exist. 
       placeholder: Awaiting final implementation good alternative or workaround for described problem could be...
     validations:
       required: false
@@ -40,7 +40,7 @@ body:
     id: example-solutions
     attributes:
       label: Example solutions
-      description: If you are familiar with solutions which already exist and fulfill their role in other cities or countries list them below.
+      description: If you are familiar with solutions which already exist and fulfill their role in other cities or countries list them below.
       placeholder: |
         1. 
         2. 
@@ -56,8 +56,8 @@ body:
       description: Do you want to list on the List of Ideators your GitHub username and link to GitHub profile, name and surname by Implementer? Mark appropriate option/-s.
       multiple: true
       options:
-        - I'm consent to list my GitHub username and link to my GitHub profile on the List of Ideators.
-        - I'm consent to list my name and surname on the List of Ideators.
+        - I consent to list my GitHub username and link to my GitHub profile on the List of Ideators.
+        - I consent to list my name and surname on the List of Ideators.
 
   - type: checkboxes
     id: terms

@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Dziękuję za czas poświęcony na wypełenie tego furmularza!
+        Dziękuję za czas poświęcony na wypełnienie tego formularza!
 
         > Zanim zgłosisz swój nowy pomysł upewnij się czy ktoś już tego wcześniej nie zrobił. Listę wszystkich pomysłów znajdziesz [tutaj](https://github.com/improvecountry/ideas/issues).
 
@@ -22,7 +22,7 @@ body:
     id: solution-proposal
     attributes:
       label: Propozycja rozwiązania
-      description: Opisz swój pomysł na rozwiązanie zgłoszonego problemu. Jeżeli posiadasz jakieś rysunki lub mockupy możesz je załączyć tutaj. 
+      description: Opisz swój pomysł na rozwiązanie zgłoszonego problemu. Jeżeli posiadasz jakieś rysunki lub mockupy możesz je załączyć tutaj.
       placeholder: Przykładowym rozwiązaniem dla opisanego problemu może być...
     validations:
       required: true
@@ -31,7 +31,7 @@ body:
     id: alternative-solutions
     attributes:
       label: Alternatywne rozwiązania
-      description: Podaj przykłady alternatywnych lub tymczasowych rozwiązań, jeżeli istnieją. 
+      description: Podaj przykłady alternatywnych lub tymczasowych rozwiązań, jeżeli istnieją.
       placeholder: Oczekując na finalne rozwiązanie dobrą alternatywą lub tymczasowym rozwiązaniem dla opisanego problemu może być...
     validations:
       required: false
@@ -74,6 +74,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        Kliknij w ⚙️ po prawej stronie sekcji **Labels** (pl. Etykiety) umieszczonej poniżej lub po prawej stronie tego formularza i przypisz jedną lub więcej etykiet do Twojego pomysłu. W przypadku gdy nie znajdziesz etykiety odpowiedniej dla Twojego pomysłu wybierz etykitę `NO CATEGORY`.
+        Kliknij w ⚙️ po prawej stronie sekcji **Labels** (pl. Etykiety) umieszczonej poniżej lub po prawej stronie tego formularza i przypisz jedną lub więcej etykiet do Twojego pomysłu. W przypadku gdy nie znajdziesz etykiety odpowiedniej dla Twojego pomysłu wybierz etykietę `NO CATEGORY`.
         
         > Etykiety `Poland` oraz `Polish` są domyślnie przypisanymi etykietami. Pozostaw je przypisane.
