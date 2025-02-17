@@ -58,6 +58,7 @@ body:
       options:
         - I consent to list my GitHub username and link to my GitHub profile on the List of Ideators.
         - I consent to list my name and surname on the List of Ideators.
+        - I consent to list my GitHub username and link to my GitHub profile and my name and surname on the List of Ideators.
 
   - type: checkboxes
     id: terms

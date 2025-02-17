@@ -58,6 +58,7 @@ body:
       options:
         - Wyrażam zgodę na umieszczenie nazwy oraz linku do mojego profilu w serwisie GitHub na Liście Pomysłodawców.
         - Wyrażam zgodę na umieszczenie mojego imienia i nazwiska na Liście Pomysłodawców.
+        - Wyrażam zgodę na umieszczenie nazwy oraz linku do mojego profilu w serwisie GitHub oraz mojego imienia i nazwiska na Liście Pomysłodawców.
 
   - type: checkboxes
     id: terms
